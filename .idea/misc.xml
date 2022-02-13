@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/style_btn_press.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/style_btn_red.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable-v24/style_btn_white.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/style_btn.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/style_btn_black95.xml" value="0.2703125" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/drawable/style_btn_green.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/intoduction.xml" value="0.152" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/licenser.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/our.xml" value="0.2" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/previewdialog.xml" value="0.264" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room10.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room11.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room12.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room13.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room14.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room15.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room16.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room17.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room18.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room19.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room2.xml" value="0.1" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room20.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room21.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room22.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room23.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room24.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room25.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room26.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room27.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room28.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room29.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room3.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room30.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room4.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room5.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room6.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room7.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room8.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/room9.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/rooms.xml" value="0.2" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/universal.xml" value="0.2" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/MyApplication4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16041666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
